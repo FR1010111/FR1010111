@@ -1,4 +1,3 @@
-# 💫 About Me:
 It's All About 0 and 1
 
 

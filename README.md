@@ -1,18 +1,4 @@
-<html>
-<head>
-<title>Cursive Font</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"></head>
-<style type="text/css">
-p{
-font-family: 'Dancing Script', cursive;
-}
-</style>
-<body>
-<p>It's All About 0 and 1</p>
-</body>
-</html>
+It's All About 0 and 1
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61550587109130&mibextid=2JQ9oc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fn_1010111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debangshu-roy-012404285) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itzdebangshu?t=KqZJtGH-DGoV5ZJNk9Nn8g&s=09) 
